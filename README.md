@@ -37,7 +37,5 @@ The application manages trains, passengers, and ticket bookings using **in-memor
 - `Booking` – Stores booking data  
 - `RailwayManagementSystemGUI` – Main GUI application  
 
-## 🚀 How to Run
-1. Install **JDK 8+**  
-2. Save the file as:
+
 
